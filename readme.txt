@@ -1,2 +1,2 @@
-Tom is handsome.
+Tom is a handsome boy.
 Jerry is beautiful.
